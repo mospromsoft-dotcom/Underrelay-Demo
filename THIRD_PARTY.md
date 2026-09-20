@@ -1,5 +1,6 @@
 # Компоненты и ресурсы
 
+- **JSON for Modern C++ 3.12.0** — Niels Lohmann, MIT; текст в licenses/nlohmann_json.txt, [исходник](https://github.com/nlohmann/json/releases/tag/v3.12.0).
 - **SDL3** — Sam Lantinga и участники SDL, лицензия zlib; текст в `licenses/SDL3.txt`.
 - **LLVM/MinGW runtime** — тексты лицензий и уведомления сохранены в папке `licenses`.
 - **Concrete Floor Damaged 01**, Rob Tuytel / [Poly Haven](https://polyhaven.com/a/concrete_floor_damaged_01), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Уведомление `licenses/PolyHaven.txt`.
